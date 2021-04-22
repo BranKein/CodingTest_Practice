@@ -15,3 +15,9 @@ Python3를 사용하여 문제를 풀고 jupyter notebook을 사용하여 문제
 ## Day002 (2021.04.23)
 
 ###### [BaekJoon_6588](https://www.acmicpc.net/problem/6588) 골드바흐의 추측
+
+###### [BaekJoon_2960](https://www.acmicpc.net/problem/2960) 에라토스테네스의 체
+
+###### [BaekJoon_10872](https://www.acmicpc.net/problem/10872) 팩토리얼
+
+###### [BaekJoon_1676](https://www.acmicpc.net/problem/1676) 팩토리얼 0의 개수
