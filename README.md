@@ -21,3 +21,15 @@ Python3를 사용하여 문제를 풀고 jupyter notebook을 사용하여 문제
 ###### [BaekJoon_10872](https://www.acmicpc.net/problem/10872) 팩토리얼
 
 ###### [BaekJoon_1676](https://www.acmicpc.net/problem/1676) 팩토리얼 0의 개수
+
+## Day003 (2021.04.24)
+
+###### [BaekJoon_11653](https://www.acmicpc.net/problem/11653) 소인수분해
+
+###### [BaekJoon_2004](https://www.acmicpc.net/problem/2004) 조합 0의 개수
+
+## Day004 (2021.04.25)
+
+###### [BaekJoon_2750](https://www.acmicpc.net/problem/2750) 수 정렬하기
+
+###### [BaekJoon_2751](https://www.acmicpc.net/problem/2751) 수 정렬하기 2
