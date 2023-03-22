@@ -1,3 +1,6 @@
+#  에라토스테네스의 체
+
+
 input_line = input().split(' ')
 N = int(input_line[0])
 K = int(input_line[1])

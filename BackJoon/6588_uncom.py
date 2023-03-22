@@ -1,3 +1,6 @@
+#  골드바흐의 추측
+
+
 input_list = list()
 num = 0
 while True:

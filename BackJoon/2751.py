@@ -1,3 +1,6 @@
+#  수 정렬하기 2
+
+
 N = int(input())
 if_num = False
 num_list_pos = list()

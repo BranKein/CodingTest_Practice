@@ -1,3 +1,6 @@
+#  조합 0의 개수
+
+
 def countNum(N, num):
     count = 0
     divNum = num

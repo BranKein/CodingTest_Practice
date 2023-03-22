@@ -1,3 +1,6 @@
+#  팩토리얼 0의 개수
+
+
 num = int(input())
 
 two = 0

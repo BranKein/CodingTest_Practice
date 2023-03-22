@@ -1,3 +1,5 @@
+#  소인수분해
+
 N = int(input())
 N_ori = N
 tmp = 2
