@@ -1,13 +1,14 @@
 //
 // Created by 김연혁 on 2023/03/22.
 //
+#include "6588.h"
 #include <iostream>
 #include <cmath>
 #include <vector>
 
 #define MAX 1000000
 
-int main() {
+int problem_6588() {
     bool prime_list_bool[MAX+1] = {};
     for (int i = 0; i < MAX; i++) {
         prime_list_bool[i] = true;
