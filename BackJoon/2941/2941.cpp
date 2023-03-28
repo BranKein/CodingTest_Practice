@@ -1,5 +1,6 @@
 //
 // Created by 김연혁 on 2023/03/23.
+// @link https://www.acmicpc.net/problem/2941
 //
 
 #include <iostream>
